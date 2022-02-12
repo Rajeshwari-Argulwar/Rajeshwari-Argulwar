@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rajeshwari Argulwar</h1>
-<h3 align="center">A passionate Computer Student from India</h3>
+<h3 align="center">A passionate Computer Science Student from India</h3>
 <img align="right" alt="coding" width="500" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
 
 - 🌱 I’m currently learning **Android Development**
