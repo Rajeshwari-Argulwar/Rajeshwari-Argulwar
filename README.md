@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/rajeshwari-argulwar-7b6aab209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgGDswNC5TJS0d0DuKAxhnw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshwari argulwar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/Rajeshwari Argulwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajeshwari_13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Rajeshwari Argulwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@argulwarrajeshw1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Rajeshwari Argulwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Rajeshwari Argulwar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
