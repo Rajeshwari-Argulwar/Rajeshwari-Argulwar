@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Computer Science Student from India</h3>
 <img align="right" alt="coding" width="450" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
 
-- 🌱 I’m currently learning **Android Development**  <img src="https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif?1597609868" width="30">
+- 🌱 I’m currently learning **Machine Learning**  <img src="https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif?1597609868" width="30">
 
 - 💬 Ask me about **C programming**
 - ⚡ Fun fact **I like to learn every new technology**<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/>
